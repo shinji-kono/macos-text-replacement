@@ -1,6 +1,6 @@
-# change Text Replacement
+# Change Text Replacement
 
-
+Large set of replacements may panic your macOS. I'm not sure, but it maybe less than a thousand.
 
 ```
     cpm install -g DBD::SQLite
